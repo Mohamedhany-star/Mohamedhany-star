@@ -13,7 +13,7 @@
 - ⚡ About Me: **Determined** <br>
 - 💎 Value **clarity, ownership, and continuous improvement** <br>
 - 📈 Skills: **Java, SQL, OOP, Git & GitHub**
-- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:sayyadmastan78@gmail.com) <br>
+- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:mhmdhanybdalftah045@gmail.com) <br>
 - 📍 **Location:** India <br>
 
 

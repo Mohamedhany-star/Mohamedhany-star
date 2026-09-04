@@ -7,15 +7,13 @@
 
 <h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/mohamed-hany-mohamed?utm_source=share_via&utm_content=profile&utm_medium=member_android/">Mohamed Hany</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-
-
-- 🌱 **Currently building and developing Myself** <br>
-- ⚡ About Me: **Determined** <br>
-- 💎 Value **clarity, ownership, and continuous improvement** <br>
-- 📈 Skills: **Java, SQL, OOP, Git & GitHub**
-- 📫 Reach Me At: [sayyadmastan78@gmail.com](mailto:mhmdhanybdalftah045@gmail.com) <br>
-- 📍 **Location:** India <br>
-
+* 🌱 **Currently learning and building projects in Data Analytics & Cloud Computing** <br>
+* ⚡ **About Me:** **Curious, Determined & Always Learning** <br>
+* 💎 **Value:** **Clarity, Ownership & Continuous Improvement** <br>
+* 📈 **Skills:** **SQL, Power BI, Excel, Python, AWS, Git & GitHub** <br>
+* ☁️ **Cloud:** **AWS • Cloud Computing • Networking • Linux** <br>
+* 📫 **Reach Me At:** **mhmdhanybdalftah045@gmail.com** <br>
+* 📍 **Location:** **Menofia, Egypt** <br>
 
 <br>
 <br>

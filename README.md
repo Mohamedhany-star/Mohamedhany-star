@@ -1,22 +1,83 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
-<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
-<h2>Check My Nuxt Starter Kit</h2>
-  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
-      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
-    </a>
-<h2>Latest Blog Posts</h2>
-  <ul>
-  <li><a href=https://mokkapps.de/blog/how-to-setup-an-mcp-server-for-an-existing-nuxt-app target="_blank" rel="noreferrer nofollow">How to Set Up an MCP Server for an Existing Nuxt App</a></li><li><a href=https://mokkapps.de/vue-tips/difference-between-use-fetch-and-event-fetch target="_blank" rel="noreferrer nofollow">Nuxt Tip: Difference Between useFetch and event.$fetch</a></li><li><a href=https://mokkapps.de/vue-tips/infer-props-from-component-map target="_blank" rel="noreferrer nofollow">Vue Tip: Infer Props From Components in a Component Map</a></li><li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li>
-  </ul>
-<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
-<h2>Latest Newsletter Issues</h2>
-  <ul>
-    <li><a href=https://weekly-vue.news/issues/v2/205 target="_blank" rel="noreferrer nofollow">Weekly Vue News #241 - Final Newsletter Issue</a></li><li><a href=https://weekly-vue.news/issues/v2/204 target="_blank" rel="noreferrer nofollow">Weekly Vue News #240 - TypeScript at Scale, Pinia Colada v1, Vite Recap & effectScope Deep Dive</a></li><li><a href=https://weekly-vue.news/issues/v2/203 target="_blank" rel="noreferrer nofollow">Weekly Vue News #239 - Accessibility tips, Nuxt UI updates, and power tools for dev productivity</a></li><li><a href=https://weekly-vue.news/issues/v2/202 target="_blank" rel="noreferrer nofollow">Weekly Vue News #238 - Nuxt UI v4, business wins with Nuxt, and VueUse</a></li><li><a href=https://weekly-vue.news/issues/v2/201 target="_blank" rel="noreferrer nofollow">Weekly Vue News #237 - Top Nuxt Modules for 2026, TypeScript 6.0 Beta, and AI Content Tools</a></li>
-  </ul>
-<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
-<h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
-  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
-      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
-    </a>
-    
+<h1 align="center">👋 Mohamed Hany Mohamed Abdel Fattah</h1>
+<h3 align="center">Data Analytics | Junior Data Analyst</h3>
+
+<p align="center">
+  <a href="https://www.facebook.com/share/1C6v6Hsdgb/?fb_share_wa_redirect=true" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25></a>
+  <a href="https://www.linkedin.com/in/mohamed-hany-abdelfattah" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+  <a href="https://www.instagram.com/mohamed_hany1205" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+  <a href="https://github.com/Mohamedhany-star" target="_blank" rel="noreferrer nofollow"><img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+  <a href="mailto:mhmdhanybdalftah045@gmail.com"><img src="https://img.shields.io/badge/gmail-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+</p>
+
+---
+
+## 📊 Current Focus
+
+Turning **raw data into actionable insights** and supporting **data-driven decision making**.
+
+**Target Role:** Junior Data Analyst
+
+---
+
+## 🛠️ Data Analytics Skills
+
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat-square&logo=power-bi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346.svg?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-6DB33F.svg?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00.svg?style=flat-square)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-167DBE.svg?style=flat-square)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-5A67D8.svg?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power%20Query-FFB900.svg?style=flat-square)
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-7B16FF.svg?style=flat-square)
+![Data Governance](https://img.shields.io/badge/Data%20Governance-008F8C.svg?style=flat-square)
+
+## ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-EA4335.svg?style=flat-square)
+![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS%20Academy%20Cloud%20Foundations-FF9900.svg?style=flat-square)
+
+---
+
+## 📜 Courses & Certifications
+
+<details>
+  <summary>Click to expand</summary>
+
+- ✅ **AWS Academy Cloud Foundations**
+- ✅ **Cisco Networking Basics**
+- ✅ **Cisco Data Analytics Basics**
+- ✅ **Implementing and Developing SQL Server Objects** — *Mahara-Tech / ITI*
+- ✅ **Oracle AI for You**
+
+</details>
+
+---
+
+## 🎓 Training
+
+- 🎓 **Digital Egypt Pioneers Initiative (DEPI)** — Data Analytics Track — **MCIT**
+
+---
+
+## 👤 About Me
+
+- 🏠 **Location:** Menoufia, Egypt
+- 🏛️ **University:** Menoufia University — Faculty of Science
+- 🧑‍🔬 **Department:** Physics and Computer Science
+- 🎓 **Degree:** B.Sc. in Physics and Computer Science
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamedhany-star&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhany-star&layout=compact&theme=dark" alt="Top Languages">
+</p>
+
+---
+
+<p align="center">⚡ Transforming data into decisions.</p>

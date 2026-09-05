@@ -1,169 +1,22 @@
-<div align="center">
-
-# 👋 Hi, I'm Mohamed Hany
-
-### Data Analyst · Cloud Computing · Computer Science Student
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst+in+the+Making;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;Transforming+Data+into+Actionable+Insights;Cloud+Computing+%26+AWS+Enthusiast" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-hany-abdelfattah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Mohamedhany-star" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Mohamedhany-star&style=for-the-badge&color=3B82F6" alt="Profile Views"/>
-</p>
-
-</div>
-
----
-
-## 🙋♂️ About Me
-
-I'm **Mohamed Hany Abdelfattah**, a Computer Science student at **Menoufia University — Faculty of Science**, focused on building a career in **Data Analytics**. I enjoy working with data to uncover patterns, build dashboards, and translate numbers into meaningful, actionable insights.
-
-Currently, I'm a **Data Analytics Trainee** at the **Digital Egypt Pioneers Initiative (DEPI)**, where I'm developing hands-on experience with SQL, Power BI, Python, and Excel. I also have a supporting background in **Cloud Computing and AWS**.
-
-- 🎓 **B.Sc. in Physics & Computer Science** — Menoufia University
-- 📊 **Data Analytics Trainee** — Digital Egypt Pioneers Initiative (DEPI)
-- ☁️ **AWS Academy Cloud Foundations** Graduate
-- 🌱 Currently deepening my skills in **Data Analysis**, **Power BI**, and **Python**
-- 🎯 Goal: Become a skilled Data Analyst who creates impactful, data-driven solutions
-- 📍 Egypt
-
----
-
-## 🛠️ Skills & Tools
-
-### 📊 Data Analytics
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### 🐍 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### ☁️ Cloud Computing
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 🗄️ Databases & Tools
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 📈 [Sales Analytics Dashboard — Power BI](#)
-> An interactive Power BI dashboard analyzing sales performance with KPIs, charts, and slicers to surface actionable insights.
-
-**Tech:** `Power BI` `Power Query` `Data Visualization` `Data Analysis`
-
----
-
-### 🗄️ [SQL Database Management Project](#)
-> Relational database project covering design, complex SQL queries, table relationships, constraints, and SQL Server operations.
-
-**Tech:** `SQL` `SQL Server` `Database Design` `T-SQL`
-
----
-
-### 🏆 [Online Competition & Voting Platform Database](#)
-> Full relational database design for an online competition and voting system, including ERD modeling and structured SQL implementation.
-
-**Tech:** `SQL` `ERD Design` `SQL Server` `Database Design`
-
----
-
-### ☁️ [Cloud Computing / AWS Labs](#)
-> Hands-on AWS labs demonstrating foundational cloud concepts including compute, storage, networking, and security.
-
-**Tech:** `AWS` `Cloud Computing` `AWS Academy`
-
----
-
-### 🧹 [Data Analytics Practice Projects](#)
-> Practical analytics exercises covering data cleaning, transformation, exploratory analysis, and visualization across multiple datasets.
-
-**Tech:** `Python` `Excel` `Power BI` `SQL` `Pandas`
-
----
-
-## 📚 Currently Learning
-
-- 🔵 Advanced **Power BI** (DAX, data modeling, report design)
-- 🐍 **Python for Data Analysis** (Pandas, NumPy, Matplotlib, Seaborn)
-- 📊 Advanced **SQL** (window functions, CTEs, performance tuning)
-- ☁️ Deepening **AWS** knowledge toward Cloud Practitioner
-
----
-
-## 🎯 Goals
-
-- [ ] Complete the **DEPI Data Analytics** training track
-- [ ] Build a strong public Data Analytics portfolio on GitHub
-- [ ] Earn the **AWS Cloud Practitioner** certification
-- [ ] Land my first **Junior Data Analyst** role
-- [ ] Master **advanced Power BI** and **Python data analysis**
-
----
-
-## 🏅 Certifications & Training
-
-| Certification / Training | Issuer | Status |
-|---|---|---|
-| 📊 Data Analytics Training | Digital Egypt Pioneers Initiative (DEPI) | 🟢 In Progress |
-| ☁️ AWS Academy Cloud Foundations | AWS Academy | ✅ Completed |
-| 🌐 Networking Basics | Cisco Networking Academy | ✅ Completed |
-| 🗄️ Implementing & Developing SQL Server Objects | Mahara-Tech / ITI | ✅ Completed |
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mohamedhany-star&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhany-star&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamedhany-star&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [mohamed-hany-abdelfattah](https://www.linkedin.com/in/mohamed-hany-abdelfattah) |
-| 💻 GitHub | [Mohamedhany-star](https://github.com/Mohamedhany-star) |
-
-</div>
-
----
-
-<div align="center">
-
-*"Turning raw data into clear insights — one query at a time."*
-
-**Mohamed Hany Abdelfattah · Junior Data Analyst · Egypt**
-
-</div>
-
+<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mokkapps GitHub README header image">
+<p><a href="https://www.x.com/mokkapps"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/mokkapps"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/mokkapps/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@mokkapps"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@MokkappsDev"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/mokkapps"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+<h2>Check My Nuxt Starter Kit</h2>
+  <a href="https://nuxtstarterkit.com" target="_blank" rel="noreferrer nofollow">
+      <img src="https://mokkapps.twic.pics/nuxtstarterkit.com/promo.png" alt="Nuxt Starter Kit" height="500" >
+    </a>
+<h2>Latest Blog Posts</h2>
+  <ul>
+  <li><a href=https://mokkapps.de/blog/how-to-setup-an-mcp-server-for-an-existing-nuxt-app target="_blank" rel="noreferrer nofollow">How to Set Up an MCP Server for an Existing Nuxt App</a></li><li><a href=https://mokkapps.de/vue-tips/difference-between-use-fetch-and-event-fetch target="_blank" rel="noreferrer nofollow">Nuxt Tip: Difference Between useFetch and event.$fetch</a></li><li><a href=https://mokkapps.de/vue-tips/infer-props-from-component-map target="_blank" rel="noreferrer nofollow">Vue Tip: Infer Props From Components in a Component Map</a></li><li><a href=https://mokkapps.de/blog/vue-state-management-composables-provide-inject-pinia target="_blank" rel="noreferrer nofollow">Navigating State Management in Vue: Composables, Provide/Inject, and Pinia</a></li><li><a href=https://mokkapps.de/blog/why-i-switched-back-from-vscode-to-intellij-idea target="_blank" rel="noreferrer nofollow">Why I Switched Back From VS Code to IntelliJ IDEA: A Developer's Journey</a></li>
+  </ul>
+<p><a href="https://mokkapps.de/blog">➡️ More blog posts</a></p>
+<h2>Latest Newsletter Issues</h2>
+  <ul>
+    <li><a href=https://weekly-vue.news/issues/v2/205 target="_blank" rel="noreferrer nofollow">Weekly Vue News #241 - Final Newsletter Issue</a></li><li><a href=https://weekly-vue.news/issues/v2/204 target="_blank" rel="noreferrer nofollow">Weekly Vue News #240 - TypeScript at Scale, Pinia Colada v1, Vite Recap & effectScope Deep Dive</a></li><li><a href=https://weekly-vue.news/issues/v2/203 target="_blank" rel="noreferrer nofollow">Weekly Vue News #239 - Accessibility tips, Nuxt UI updates, and power tools for dev productivity</a></li><li><a href=https://weekly-vue.news/issues/v2/202 target="_blank" rel="noreferrer nofollow">Weekly Vue News #238 - Nuxt UI v4, business wins with Nuxt, and VueUse</a></li><li><a href=https://weekly-vue.news/issues/v2/201 target="_blank" rel="noreferrer nofollow">Weekly Vue News #237 - Top Nuxt Modules for 2026, TypeScript 6.0 Beta, and AI Content Tools</a></li>
+  </ul>
+<p><a href="https://weekly-vue.news/issues">➡️ More issues</a></p>
+<h2>GitHub Stats</h2>
+<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
+    </a>
+    

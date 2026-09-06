@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Mohamed Hany 👋</h1>
-<h3 align="center">Data Analyst | Cloud Computing | AWS | SQL • Power BI</h3>
+<h1 align="center">Hi there, I'm Mohamed Hany 👋</h1><h3 align="center">Data Analyst | Cloud Computing | AWS | SQL • Power BI</h3>
 <p align="center"><i>Transforming Data into Actionable Insights</i></p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-hany-abdelfattah" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28"></a>
@@ -8,11 +8,15 @@
   <a href="https://github.com/Mohamedhany-star"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="28"></a>
 </p>
 
+
 ---
+
 
 ## 👨‍💻 About Me
 
+
 I'm a **Computer Science** student focused on **Data Analytics**, with a strong supporting background in **Cloud Computing**.
+
 
 - 🎓 **Education:** B.Sc. in Physics & Computer Science — *Faculty of Science, Menoufia University*
 - 🚀 **Current Role:** Data Analytics Trainee at **Digital Egypt Pioneers Initiative (DEPI)**
@@ -20,9 +24,12 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
 - ☁️ **Cloud & Growth:** Certified in **AWS Academy Cloud Foundations**, actively leveraging cloud infrastructure to progress from **Data Analytics** toward **Data Engineering**.
 - 📍 **Location:** Menoufia, Egypt
 
+
 ---
 
+
 ## 🛠️ Skills & Tech Stack
+
 
 <table>
   <tr>
@@ -35,6 +42,7 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
     </td>
   </tr>
 
+
   <tr>
     <td><b>BI & Reporting</b></td>
     <td>
@@ -44,6 +52,7 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
     </td>
   </tr>
 
+
   <tr>
     <td><b>Cloud & Tools</b></td>
     <td>
@@ -52,6 +61,7 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
     </td>
   </tr>
+
 
   <tr>
     <td><b>Core Competencies</b></td>
@@ -67,12 +77,16 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
   </tr>
 </table>
 
+
 ---
+
 
 ## 📊 Featured Projects
 
+
 ### 1. [Retail Sales Performance Dashboard](https://github.com/Mohamedhany-star)
 > **Tool:** Microsoft Excel (Advanced Formulas, Dynamic Summaries, Live KPIs)
+
 
 A comprehensive Excel dashboard designed to analyze and monitor retail sales operations for 2025 across Egypt.
 - **Dataset Scale:** 180+ transactions totaling **~7.67M EGP** in revenue with **zero formula errors**.
@@ -83,18 +97,36 @@ A comprehensive Excel dashboard designed to analyze and monitor retail sales ope
   - **Top Performer:** Sara Adel contributed **~2.07M EGP** as the highest-grossing salesperson.
 - **Architecture:** Structured across Raw Data, Summary Aggregations, Live Charts, and Interactive Dashboard Views.
 
+
 ---
 ### 2. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star/Competition-Voting-Platform-DB)
 > **Tool:** Microsoft SQL Server | **Type:** Team Project
+
 
 An enterprise-grade relational database built from scratch to manage contestant submissions, voting integrity, and real-time score analytics.
 - **Database Design:** Full Entity-Relationship Diagram (ERD), 15 normalized tables, `PK/FK` relationships, and integrity constraints (`CHECK`, `UNIQUE`).
 - **Data Manipulation:** Conditional `UPDATE`s and cascading `DELETE`s driven by subqueries.
 - **Advanced Querying:** Complex subqueries (`EXISTS`, `NOT IN`), set operations (`UNION`, `INTERSECT`, `EXCEPT`), and aggregations with `GROUP BY` / `HAVING`.
 - **Multi-table Reporting:** `INNER` / `LEFT` / `RIGHT` JOINs for analyst-ready reporting across users, submissions, and competitions.
+
+
+---
+### 3. [E-Commerce Sales Analytics](https://github.com/Mohamedhany-star/E-Commerce-Sales-Analytics)
+> **Tool:** Microsoft Excel (SUMIFS, INDEX/MATCH, Conditional Formatting, Charts)
+
+
+A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Egyptian store.
+- **Raw_Data:** 400 simulated orders (2025), 13 columns, formula-driven totals with 3-color scale conditional formatting.
+- **Summary:** Live breakdowns by Region, Category, Channel, Month, Customer Type + Product Performance & Top 5 (INDEX/MATCH + LARGE).
+- **Dashboard:** 6 KPI cards + 4 interactive charts — built entirely with native Excel formulas, no macros.
+- **Data generation:** PowerShell 5.1 + Excel COM automation.
+
+
 ---
 
+
 ## 📜 Certifications & Training
+
 
 - 🎓 **Digital Egypt Pioneers Initiative (DEPI)** — Data Analytics Track — *MCIT*
 - ☁️ **AWS Academy Cloud Foundations**
@@ -102,16 +134,21 @@ An enterprise-grade relational database built from scratch to manage contestant 
 - 🗄️ **Implementing and Developing SQL Server Objects** — *Mahara-Tech / ITI*
 - 🤖 **Oracle AI for You**
 
+
 ---
 
+
 ## 📈 GitHub Stats
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamedhany-star&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamedhany-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%">
 </p>
 
+
 ---
+
 
 <p align="center">
   <b>⚡ Transforming data into actionable decisions.</b><br>

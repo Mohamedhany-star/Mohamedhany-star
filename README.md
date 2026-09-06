@@ -83,6 +83,32 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
 
 ## 📊 Featured Projects
 
+### 1. [E-Commerce Sales Analytics](https://github.com/Mohamedhany-star/E-Commerce-Sales-Analytics)
+> **Tool:** Microsoft Excel (SUMIFS, INDEX/MATCH, Conditional Formatting, Charts)
+
+
+A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Egyptian store.
+- **Raw_Data:** 400 simulated orders (2025), 13 columns, formula-driven totals with 3-color scale conditional formatting.
+- **Summary:** Live breakdowns by Region, Category, Channel, Month, Customer Type + Product Performance & Top 5 (INDEX/MATCH + LARGE).
+- **Dashboard:** 6 KPI cards + 4 interactive charts — built entirely with native Excel formulas, no macros.
+- **Data generation:** PowerShell 5.1 + Excel COM automation.
+
+
+---
+### 2. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star/Competition-Voting-Platform-DB)
+> **Tool:** Microsoft SQL Server | **Type:** Team Project
+
+
+An enterprise-grade relational database built from scratch to manage contestant submissions, voting integrity, and real-time score analytics.
+- **Database Design:** Full Entity-Relationship Diagram (ERD), 15 normalized tables, `PK/FK` relationships, and integrity constraints (`CHECK`, `UNIQUE`).
+- **Data Manipulation:** Conditional `UPDATE`s and cascading `DELETE`s driven by subqueries.
+- **Advanced Querying:** Complex subqueries (`EXISTS`, `NOT IN`), set operations (`UNION`, `INTERSECT`, `EXCEPT`), and aggregations with `GROUP BY` / `HAVING`.
+- **Multi-table Reporting:** `INNER` / `LEFT` / `RIGHT` JOINs for analyst-ready reporting across users, submissions, and competitions.
+
+
+---
+
+
 
 ### 1. [Retail Sales Performance Dashboard](https://github.com/Mohamedhany-star/Retail-Sales-Performance-Dashboard)
 > **Tool:** Microsoft Excel (Advanced Formulas, Dynamic Summaries, Live KPIs)
@@ -99,31 +125,6 @@ A comprehensive Excel dashboard designed to analyze and monitor retail sales ope
 
 
 ---
-### 2. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star/Competition-Voting-Platform-DB)
-> **Tool:** Microsoft SQL Server | **Type:** Team Project
-
-
-An enterprise-grade relational database built from scratch to manage contestant submissions, voting integrity, and real-time score analytics.
-- **Database Design:** Full Entity-Relationship Diagram (ERD), 15 normalized tables, `PK/FK` relationships, and integrity constraints (`CHECK`, `UNIQUE`).
-- **Data Manipulation:** Conditional `UPDATE`s and cascading `DELETE`s driven by subqueries.
-- **Advanced Querying:** Complex subqueries (`EXISTS`, `NOT IN`), set operations (`UNION`, `INTERSECT`, `EXCEPT`), and aggregations with `GROUP BY` / `HAVING`.
-- **Multi-table Reporting:** `INNER` / `LEFT` / `RIGHT` JOINs for analyst-ready reporting across users, submissions, and competitions.
-
-
----
-### 3. [E-Commerce Sales Analytics](https://github.com/Mohamedhany-star/E-Commerce-Sales-Analytics)
-> **Tool:** Microsoft Excel (SUMIFS, INDEX/MATCH, Conditional Formatting, Charts)
-
-
-A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Egyptian store.
-- **Raw_Data:** 400 simulated orders (2025), 13 columns, formula-driven totals with 3-color scale conditional formatting.
-- **Summary:** Live breakdowns by Region, Category, Channel, Month, Customer Type + Product Performance & Top 5 (INDEX/MATCH + LARGE).
-- **Dashboard:** 6 KPI cards + 4 interactive charts — built entirely with native Excel formulas, no macros.
-- **Data generation:** PowerShell 5.1 + Excel COM automation.
-
-
----
-
 
 ## 📜 Certifications & Training
 

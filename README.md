@@ -84,17 +84,14 @@ A comprehensive Excel dashboard designed to analyze and monitor retail sales ope
 - **Architecture:** Structured across Raw Data, Summary Aggregations, Live Charts, and Interactive Dashboard Views.
 
 ---
-
 ### 2. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star/Competition-Voting-Platform-DB)
 > **Tool:** Microsoft SQL Server | **Type:** Team Project
 
 An enterprise-grade relational database built from scratch to manage contestant submissions, voting integrity, and real-time score analytics.
-- **Database Design:** Full Entity-Relationship Diagram (ERD), normalized tables, `PK/FK` relationships, and integrity constraints (`CHECK`, `UNIQUE`).
-- **Advanced SQL Architecture:**
-  - Implemented **CTEs** and complex subqueries (`EXISTS`, `NOT IN`) for multi-level data retrieval.
-  - Utilized **Window Functions** (`ROW_NUMBER`, `RANK`, `DENSE_RANK`, `AVG() OVER`, `SUM() OVER`) for dynamic leaderboard ranking and cumulative scoring.
-  - Automated reporting with reusable **Views** and parameterized **Stored Procedures**.
-
+- **Database Design:** Full Entity-Relationship Diagram (ERD), 15 normalized tables, `PK/FK` relationships, and integrity constraints (`CHECK`, `UNIQUE`).
+- **Data Manipulation:** Conditional `UPDATE`s and cascading `DELETE`s driven by subqueries.
+- **Advanced Querying:** Complex subqueries (`EXISTS`, `NOT IN`), set operations (`UNION`, `INTERSECT`, `EXCEPT`), and aggregations with `GROUP BY` / `HAVING`.
+- **Multi-table Reporting:** `INNER` / `LEFT` / `RIGHT` JOINs for analyst-ready reporting across users, submissions, and competitions.
 ---
 
 ### 3. [Student Performance & Grades Analysis](https://github.com/Mohamedhany-star)

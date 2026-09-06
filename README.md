@@ -84,7 +84,7 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
 ## 📊 Featured Projects
 
 
-### 1. [Retail Sales Performance Dashboard](https://github.com/Mohamedhany-star)
+### 1. [Retail Sales Performance Dashboard](https://github.com/Mohamedhany-star/Retail-Sales-Performance-Dashboard)
 > **Tool:** Microsoft Excel (Advanced Formulas, Dynamic Summaries, Live KPIs)
 
 

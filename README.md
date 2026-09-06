@@ -94,14 +94,6 @@ An enterprise-grade relational database built from scratch to manage contestant 
 - **Multi-table Reporting:** `INNER` / `LEFT` / `RIGHT` JOINs for analyst-ready reporting across users, submissions, and competitions.
 ---
 
-### 3. [Student Performance & Grades Analysis](https://github.com/Mohamedhany-star)
-> **Tool:** Microsoft Excel | **Origin:** DEPI Traineeship
-
-A specialized data analysis project focusing on student academic performance and grading trends.
-- Applied rigorous data cleaning, conditional logic, and statistical distributions to identify learning gaps and top-performing student cohorts.
-
----
-
 ## 📜 Certifications & Training
 
 - 🎓 **Digital Egypt Pioneers Initiative (DEPI)** — Data Analytics Track — *MCIT*

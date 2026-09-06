@@ -85,7 +85,7 @@ A comprehensive Excel dashboard designed to analyze and monitor retail sales ope
 
 ---
 
-### 2. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star)
+### 2. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star/Competition-Voting-Platform-DB)
 > **Tool:** Microsoft SQL Server | **Type:** Team Project
 
 An enterprise-grade relational database built from scratch to manage contestant submissions, voting integrity, and real-time score analytics.

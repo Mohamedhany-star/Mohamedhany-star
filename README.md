@@ -83,29 +83,7 @@ I'm a **Computer Science** student focused on **Data Analytics**, with a strong 
 
 ## 📊 Featured Projects
 
-### 1. [AWS Cloud Computing Project](https://github.com/Mohamedhany-star/aws-cloud-computing-project)
-> **Tools:** AWS (IAM · VPC · EC2 · S3 · RDS · ALB · Auto Scaling) · CloudFormation · Bash
-
-A hands-on, production-style cloud deployment: a highly available & scalable web application built on AWS.
-- **Practical Guide:** 9 step-by-step phases from IAM least-privilege design → custom VPC networking → EC2 web servers → S3 static assets → RDS MySQL → Application Load Balancer → Auto Scaling.
-- **Automation:** A ready-to-run CloudFormation template that rebuilds the entire architecture (VPC, subnets, IGW, NAT, security groups, database, ALB, ASG) with a single command.
-- **Reusable Scripts:** EC2 bootstrap user-data + a sample PHP web page wired to RDS for database health checks.
-- **Bonus:** local Python simulation that reproduces the same AWS architecture on your machine.
-
----
-### 2. [E-Commerce Sales Analytics](https://github.com/Mohamedhany-star/E-Commerce-Sales-Analytics)
-> **Tool:** Microsoft Excel (SUMIFS, INDEX/MATCH, Conditional Formatting, Charts)
-
-
-A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Egyptian store.
-- **Raw_Data:** 400 simulated orders (2025), 13 columns, formula-driven totals with 3-color scale conditional formatting.
-- **Summary:** Live breakdowns by Region, Category, Channel, Month, Customer Type + Product Performance & Top 5 (INDEX/MATCH + LARGE).
-- **Dashboard:** 6 KPI cards + 4 interactive charts — built entirely with native Excel formulas, no macros.
-- **Data generation:** PowerShell 5.1 + Excel COM automation.
-
-
----
-### 3. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star/Competition-Voting-Platform-DB)
+### 1. [Online Competition & Voting Platform Database](https://github.com/Mohamedhany-star/Competition-Voting-Platform-DB)
 > **Tool:** Microsoft SQL Server | **Type:** Team Project
 
 
@@ -118,7 +96,29 @@ An enterprise-grade relational database built from scratch to manage contestant 
 
 ---
 
+### 2. [E-Commerce Sales Analytics](https://github.com/Mohamedhany-star/E-Commerce-Sales-Analytics)
+> **Tool:** Microsoft Excel (SUMIFS, INDEX/MATCH, Conditional Formatting, Charts)
 
+
+A 3-sheet Excel workbook analyzing a year of e-commerce sales for a fictional Egyptian store.
+- **Raw_Data:** 400 simulated orders (2025), 13 columns, formula-driven totals with 3-color scale conditional formatting.
+- **Summary:** Live breakdowns by Region, Category, Channel, Month, Customer Type + Product Performance & Top 5 (INDEX/MATCH + LARGE).
+- **Dashboard:** 6 KPI cards + 4 interactive charts — built entirely with native Excel formulas, no macros.
+- **Data generation:** PowerShell 5.1 + Excel COM automation.
+
+---
+
+
+### 3. [AWS Cloud Computing Project](https://github.com/Mohamedhany-star/aws-cloud-computing-project)
+> **Tools:** AWS (IAM · VPC · EC2 · S3 · RDS · ALB · Auto Scaling) · CloudFormation · Bash
+
+A hands-on, production-style cloud deployment: a highly available & scalable web application built on AWS.
+- **Practical Guide:** 9 step-by-step phases from IAM least-privilege design → custom VPC networking → EC2 web servers → S3 static assets → RDS MySQL → Application Load Balancer → Auto Scaling.
+- **Automation:** A ready-to-run CloudFormation template that rebuilds the entire architecture (VPC, subnets, IGW, NAT, security groups, database, ALB, ASG) with a single command.
+- **Reusable Scripts:** EC2 bootstrap user-data + a sample PHP web page wired to RDS for database health checks.
+- **Bonus:** local Python simulation that reproduces the same AWS architecture on your machine.
+
+---
 
 ### 4. [Retail Sales Performance Dashboard](https://github.com/Mohamedhany-star/Retail-Sales-Performance-Dashboard)
 > **Tool:** Microsoft Excel (Advanced Formulas, Dynamic Summaries, Live KPIs)
